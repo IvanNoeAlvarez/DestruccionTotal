@@ -1,0 +1,66 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Origen:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textSize="36sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ori"
+        android:textSize="25sp"
+        android:paddingTop="15dp"
+        android:text="Altura" />
+
+    <TextView
+        android:text="Altura:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt"
+        android:textSize="36sp" />
+
+    <TextView
+        android:text="Parienta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/alt"
+        android:textSize="25sp"
+        android:paddingTop="15dp" />
+
+    <TextView
+        android:text="Parienta:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="36sp" />
+
+    <TextView
+        android:text="story"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/par"
+        android:textSize="25sp"
+        android:paddingTop="15dp" />
+
+    <TextView
+        android:text="Hijos:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:textSize="36sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/hij"
+        android:paddingTop="15dp"
+        android:textSize="25sp" />
+
+</LinearLayout>
